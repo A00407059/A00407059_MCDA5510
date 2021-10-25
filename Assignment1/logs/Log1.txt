@@ -1,0 +1,22 @@
+
+Log Entry : 2021-10-25 오후 12:47:23
+The excution time is: 7.104 sec
+The valid row is: 8807
+The skipped row is: 3548
+-------------------------------
+
+Log Entry : 2021-10-25 오후 12:51:54
+The excution time is: 4.098 sec
+The valid row is: 8807
+The skipped row is: 3548
+-------------------------------
+
+Log Entry : 2021-10-25 오후 1:37:16
+The excution time is: 4.454 sec
+The valid row is: 8807
+The skipped row is: 3548
+
+Log Entry : 2021-10-25 오후 1:47:02
+The excution time is: 4.083 sec
+The valid row is: 8807
+The skipped row is: 3548
